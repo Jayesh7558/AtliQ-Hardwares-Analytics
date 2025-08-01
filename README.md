@@ -1,3 +1,5 @@
+![AtliQ Hardwares Thumbnail](atliq_sql_thumbnail.png)
+
 # AtliQ Hardwares – SQL Analysis Project
 
 This repository contains SQL queries written for business analysis on the AtliQ Hardwares dataset. These queries help uncover insights related to product sales, customer behavior, and market performance.
