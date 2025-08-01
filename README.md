@@ -25,3 +25,9 @@ This repository contains SQL queries written for business analysis on the AtliQ 
 📌 [GitHub](https://github.com/Jayesh7558)  
 📎 [LinkedIn](https://www.linkedin.com/in/jayesh-talele-8430b7209)  
 🌐 [Portfolio](https://codebasics.io/portfolio/Jayesh-Nitin-Talele)
+## 📊 Presentation
+
+👉 [Click here to view the Sales Analytics PowerPoint](https://github.com/Jayesh7558/Sales-Analytics-SQL/raw/main/Sales_Analytics_SQL_PPT.pptx)
+
+*(Use raw URL so it downloads or opens in PowerPoint directly)*
+
